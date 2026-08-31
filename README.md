@@ -151,9 +151,8 @@ Tested in Power BI Desktop using **View As Role** — switching between a sample
 
 | File | Description |
 |---|---|
-| `assignment_report.pbix` | Full Power BI dashboard file |
+| `report.pbix` | Full Power BI dashboard file |
 | `Insurance_Dataset.xlsx` | Source dataset (5 tables) |
-| `Assignment_Write-Up.pdf` | Data model design decisions, cleaning assumptions, RLS approach |
 
 ---
 
